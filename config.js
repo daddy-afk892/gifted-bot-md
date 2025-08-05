@@ -52,7 +52,7 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "null,923xxxxxxxx";
 global.read_status = process.env.AUTO_READ_STATUS || "true"
 global.save_status = process.env.AUTO_SAVE_STATUS || "true"
 global.like_status = process.env.AUTO_LIKE_STATUS || "true"
-global.like_emojis = process.env.AUTO_LIKE_EMOJIS || "💚.😂.☠️
+global.like_emojis = process.env.AUTO_LIKE_EMOJIS || "💚.😂.☠️"
 global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254728782591,923xxxxxxxx";
 
