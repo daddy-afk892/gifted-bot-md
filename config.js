@@ -24,7 +24,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://te
 
 global.devs = "254728782591" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "admin";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254728782591";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "252905253177";
 
 
 
@@ -73,7 +73,7 @@ module.exports = {
   botname : process.env.BOT_NAME  || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
   ownername:process.env.OWNER_NAME|| "It's GiftedTech",
 
-  sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
+  sessionName:process.env.SESSION_ID || "Gifted~H4sIAAAAAAAAA5VU25KiSBD9l3ptYwQRESI6YrmogKIo7XVjH0oooORqVQGNE/77Bjo9PQ+7s708FXU5eTLPyfwO8gJTNEctUL6DkuAaMtQtWVsioACtCkNEQA8EkEGgAKRdQsM3X5Y+ObzUur+YNbV3bjbG1Rnzy1XN62LTbFLI9ttXcO+Bsjqn2P8NoFwMrfA8r5rRsdryhBcST+al/aQ0RF87OGHJDQanbcK4bfMK7h0ixATn0aSMUYYITOeodSEmX6PPzdt0p1/9dAWZdcRe1caMW7bHIDbt8ca8hsZulk0OK1+wvkbfM4KRz2l5wgo6HVx2fnsZ49KMShhWCXHEE0dGKmLj/T550qc4ylFgBShnmLVfrnvhem0oOSYW+zvrsnlhAfciu1KMVsJ2MeRKajCzv1mdmrz5GvHrVeaKkqStdzTM98jw/V3mHoXmtJsWtl3rN1Nje0err7j4lbhLPryS/J+6D5cunNinSsaz+qSv8zGNN26866vaTbP1crGGZ9of91dTjvsafauQ0W5620n6zIH7ldfivIwJFI/vUz/wb3JengJ7PRXl2/GTPmQV+R3Lys+Nc7RabqWTd7r0EaHubTScLpaT8WrVOlNOhIuhhg7+LpeExUblaykRbtYxO2Xn9Zaj5DYbr1/sxpsW++riWzDWbCN6fWSUoNYKgMLfe4CgCFNGIMNF3u0N+FEPwKD2kE8Qe5QXvGxmyBt6zppSbR/Mmn6AGZtko3CwGbJ64dsa7i/1dlgL6ivogZIUPqIUBSamrCCtgyiFEaJA+fOvHsjRO3sK14UT+B4IMaFsm1dlWsDgQ9WPQ+j7RZUzr819vVsgAhTucxsxhvOIdnWsckj8GNdIjyGjQAlhStHPDBFBAVAYqdDPrtWLoCu8ZR2MocidQA9kD0FwABQwEAcSN+BHksALCs/9Qb81HSwsy285YqAHctjdBpP8VoAeSB+PeHks8eJYFGVO5qTHu+7g/pNvBx8gBnFKgQL0RRbUV6pNVlL4Pl7PZqoTqXqkgs/8PozyFEJfRLZ4MFaZOj01auriOdevy/U2NqtSRm8R9dOrP41CObZe/wEEKOB8idl2bjUulmfrmX4pRkHYDvrxcUbeCIo10TDzA8cPynmixoXuikV5lalcCXEtbHCtXrx5nMhJDo3BWjoezUNWr9T1axctQDX20a/BZg45t6N8mwSa+VaLS/EMdTiC8rU4a+frYgmr9f6iemJxcYTmcNpG+yk3cjQ2J7t96wq2Ixy0+Bpsjul4PrfTQ/1W9vXmaeFHC6U/Rhd+mKtTrvsNMXpMgh8K/aeST+Kd4bh77xeMH7PlX/pTW+OhjnbNrYy0va/ab0PMXGm0nVob6RoekuHCtGGuHc3+0QP3+189UKaQhQXJgAJodoagB0hRdfa18rD4TSRdsyxt/Uw7hZSpny3xhjNEGcxKoPCSOBTk4YgXn7dcUpQmpDFQgBC5Wzvp/N2qZekxyD46DKjdZ9o7cP8bZavV3H0HAAA=",  // PUT SESSION ID HERE 
   errorChat : process.env.ERROR_CHAT || "",
   KOYEB_API : process.env.KOYEB_API  || "false",
 
